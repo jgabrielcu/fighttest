@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Corte3\\fighttest\\",
+  "WorkspaceRootPath": "E:\\fighttest\\fighttest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|e:\\fighttest\\fighttest\\assets\\scripts\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\duende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\duende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\duende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|d:\\corte3\\fighttest\\assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\salud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\salud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\salud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\hacerda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\hacerda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hacerda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\bruja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\bruja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bruja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\weapongamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\weapongamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapongamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|D:\\Corte3\\fighttest\\assets\\scripts\\camaraorbita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|E:\\fighttest\\fighttest\\assets\\scripts\\camaraorbita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597D355C-0D41-E647-05DD-7A9999F24502}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camaraorbita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,54 +54,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Duende.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\Duende.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Duende.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\Duende.cs",
-              "RelativeToolTip": "Assets\\scripts\\Duende.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAiwKkAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Combo.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Combo.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Combo.cs",
+              "RelativeToolTip": "Assets\\scripts\\Combo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T20:53:52.519Z",
+              "WhenOpened": "2025-11-07T05:17:39.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Duende.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Duende.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Duende.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Duende.cs",
+              "RelativeToolTip": "Assets\\scripts\\Duende.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAiwKkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:53:52.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerAttack.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\PlayerAttack.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerAttack.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\PlayerAttack.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\PlayerAttack.cs",
               "RelativeToolTip": "Assets\\scripts\\PlayerAttack.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAQwFUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T03:43:40.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T03:43:40.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Roll.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\Roll.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Roll.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Roll.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\Roll.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Roll.cs",
               "RelativeToolTip": "Assets\\scripts\\Roll.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T16:06:58.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T16:06:58.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HacerDa\u00F1o.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\HacerDa\u00F1o.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\HacerDa\u00F1o.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\HacerDa\u00F1o.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\HacerDa\u00F1o.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\HacerDa\u00F1o.cs",
               "RelativeToolTip": "Assets\\scripts\\HacerDa\u00F1o.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Salud.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\Salud.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Salud.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Salud.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\Salud.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Salud.cs",
               "RelativeToolTip": "Assets\\scripts\\Salud.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CamaraOrbita.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\CamaraOrbita.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\CamaraOrbita.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\CamaraOrbita.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\CamaraOrbita.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\CamaraOrbita.cs",
               "RelativeToolTip": "Assets\\scripts\\CamaraOrbita.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,37 +147,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enemy2.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\Enemy2.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Enemy2.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Enemy2.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\Enemy2.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Enemy2.cs",
               "RelativeToolTip": "Assets\\scripts\\Enemy2.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T03:30:58.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T03:30:58.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Personaje.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\Personaje.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Personaje.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Personaje.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\Personaje.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Personaje.cs",
               "RelativeToolTip": "Assets\\scripts\\Personaje.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAiwCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T02:44:49.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T02:44:49.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Bruja.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\Bruja.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\Bruja.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Bruja.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\Bruja.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\Bruja.cs",
               "RelativeToolTip": "Assets\\scripts\\Bruja.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WeaponGamage.cs",
-              "DocumentMoniker": "D:\\Corte3\\fighttest\\Assets\\scripts\\WeaponGamage.cs",
+              "DocumentMoniker": "E:\\fighttest\\fighttest\\Assets\\scripts\\WeaponGamage.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\WeaponGamage.cs",
-              "ToolTip": "D:\\Corte3\\fighttest\\Assets\\scripts\\WeaponGamage.cs",
+              "ToolTip": "E:\\fighttest\\fighttest\\Assets\\scripts\\WeaponGamage.cs",
               "RelativeToolTip": "Assets\\scripts\\WeaponGamage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
