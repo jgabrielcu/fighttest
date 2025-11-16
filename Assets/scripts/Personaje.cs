@@ -31,6 +31,14 @@ public class Personaje : MonoBehaviour
 
     private void FixedUpdate()
     {
+        Combo2 combo = GetComponent<Combo2>();
+        if (combo != null && combo.EstaAtacando())
+        {
+            anima.SetBool("walk", false);
+            anima.SetBool("run", false);
+            return;
+        }
+
         //    return;
 
         float horizontalInput = Input.GetAxis("Horizontal");

@@ -58,5 +58,24 @@ public class Combo2 : MonoBehaviour
             canIClick = true;
             cantClick = 0;
         }
+        else if (anim.GetCurrentAnimatorStateInfo(0).IsName("Attack2") && cantClick >= 3)
+        {
+            anim.SetInteger("Attack", 3);
+            canIClick = true;
+        }
+        else if (anim.GetCurrentAnimatorStateInfo(0).IsName("Attack3"))
+        {
+            anim.SetInteger("Attack", 0);
+            canIClick = true;
+            cantClick = 0;
+        }
+
     }
+
+    public bool EstaAtacando()
+    {
+        var info = anim.GetCurrentAnimatorStateInfo(0);
+        return info.IsName("Attack1") || info.IsName("Attack2") || info.IsName("Attack3");
+    }
+
 }
